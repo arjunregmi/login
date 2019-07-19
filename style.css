@@ -17,7 +17,7 @@
   
 
 html,div{ 
-    background: url(img/background.png) no-repeat center center fixed; 
+    background: url(img/background.png) ; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -31,7 +31,7 @@ html,div{
 .background{
     background-color:white;
     height: 270px;
-    width: 450px;
+  
 }
 
 .ic{
